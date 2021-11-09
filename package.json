@@ -17,10 +17,13 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:nomodule/get-prettier.git"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/nomodule/get-prettier/issues"
   },
-  "homepage": ""
+  "homepage": "https://github.com/nomodule/get-prettier#readme"
 }
